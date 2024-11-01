@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="95.992538"
+   inkscape:export-xdpi="95.992538"
+   inkscape:export-filename="/home/john/development/assets_resize_pulse/h5presizepulse_bar.png"
+   sodipodi:docname="bar.svg"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 1920 299.99999"
+   height="300"
+   width="1920">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1026">
+      <stop
+         style="stop-color:#ffe6d5;stop-opacity:1;"
+         offset="0"
+         id="stop1030" />
+      <stop
+         style="stop-color:#ffb9a6;stop-opacity:1"
+         offset="1"
+         id="stop1032" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL-6-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1146-7-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <rect
+       id="rect89-5"
+       height="471.55652"
+       width="859.98724"
+       y="-613.42987"
+       x="-2111.8179" />
+    <rect
+       id="rect174"
+       height="471.55652"
+       width="859.98724"
+       y="-613.42987"
+       x="-2111.8179" />
+    <rect
+       x="-2111.8179"
+       y="-613.42987"
+       width="859.98724"
+       height="471.55652"
+       id="rect89" />
+    <rect
+       x="-2111.8179"
+       y="-613.42987"
+       width="859.98724"
+       height="471.55652"
+       id="rect216" />
+    <rect
+       x="-647.25757"
+       y="694.68384"
+       width="1529.4319"
+       height="601.66925"
+       id="rect189" />
+    <rect
+       x="-647.25757"
+       y="694.68384"
+       width="1529.4319"
+       height="601.66925"
+       id="rect219" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="292.49957"
+       x2="522.69568"
+       y1="444.54208"
+       x1="-945.60681"
+       id="linearGradient1028"
+       xlink:href="#linearGradient1026"
+       inkscape:collect="always" />
+    <rect
+       id="rect189-9"
+       height="601.66925"
+       width="1529.4319"
+       y="694.68384"
+       x="-647.25757" />
+    <rect
+       id="rect887"
+       height="601.66925"
+       width="1529.4319"
+       y="694.68384"
+       x="-647.25757" />
+    <rect
+       x="-647.25757"
+       y="694.68384"
+       width="1529.4319"
+       height="601.66925"
+       id="rect189-9-4" />
+    <rect
+       x="-647.25757"
+       y="694.68384"
+       width="1529.4319"
+       height="601.66925"
+       id="rect928" />
+    <rect
+       x="-647.25757"
+       y="694.68384"
+       width="1529.4319"
+       height="601.66925"
+       id="rect189-9-2" />
+    <rect
+       x="-647.25757"
+       y="694.68384"
+       width="1529.4319"
+       height="601.66925"
+       id="rect958" />
+    <rect
+       id="rect189-2"
+       height="601.66925"
+       width="1529.4319"
+       y="694.68384"
+       x="-647.25757" />
+    <rect
+       id="rect998"
+       height="601.66925"
+       width="1529.4319"
+       y="694.68384"
+       x="-647.25757" />
+    <rect
+       x="-647.25757"
+       y="694.68384"
+       width="1529.4319"
+       height="601.66925"
+       id="rect189-2-3" />
+    <rect
+       x="-647.25757"
+       y="694.68384"
+       width="1529.4319"
+       height="601.66925"
+       id="rect1028" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="60"
+     inkscape:window-height="1016"
+     inkscape:window-width="1860"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:snap-text-baseline="false"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="g5901"
+     inkscape:document-units="px"
+     inkscape:cy="56.63644"
+     inkscape:cx="405.67003"
+     inkscape:zoom="0.53694351"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(1232.0713,-215.86226)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       inkscape:export-ydpi="45"
+       inkscape:export-xdpi="45"
+       id="g5901">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient1028);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;font-variation-settings:normal;vector-effect:none;stop-color:#000000;stop-opacity:1"
+         id="rect4136"
+         width="1914.0234"
+         height="294.02341"
+         x="-1229.083"
+         y="218.85054" />
+      <g
+         id="g5104"
+         transform="matrix(0.68222478,0,0,0.68222478,-383.01341,198.57956)" />
+      <g
+         transform="matrix(0.61270912,0,0,0.61270912,1160.2799,179.25995)"
+         id="g3098">
+        <g
+           id="g1744"
+           transform="matrix(1.0449744,0,0,1.0449744,391.93982,-312.15941)">
+          <rect
+             y="574.90552"
+             x="-1515.8232"
+             height="180"
+             width="180"
+             id="rect970"
+             style="fill:#000000;stroke-width:0.937701" />
+          <path
+             style="stroke-width:0.47269"
+             id="path946"
+             d="m -1353.3836,636.16598 c -3.8287,-3.68698 -9.6428,-5.53047 -17.3477,-5.53047 h -20.562 -5.4359 v 14.65338 h -31.1975 l -2.5525,10.49371 c 2.127,-0.99264 5.1523,-1.98529 7.2321,-2.50525 2.0798,-0.51996 4.1596,-0.42542 6.1922,-0.42542 6.9013,0 12.5263,2.1271 16.8278,6.28677 4.3015,4.15967 6.4286,9.45379 6.4286,15.78784 0,4.44329 -1.0872,8.74476 -3.3089,12.85716 -2.2215,4.1124 -5.3413,7.27942 -9.4065,9.45379 -1.4653,0.75631 -3.0724,1.46535 -4.8214,1.93804 h 20.042 6.3814 v -25.05256 h 11.8172 c 8.6029,0 14.9843,-1.9853 19.1912,-5.90862 4.2069,-3.92333 6.2868,-9.40653 6.2868,-16.35507 0,-6.75946 -1.9381,-12.00632 -5.7669,-15.6933 z m -17.4895,21.69646 c -1.6544,1.41807 -4.5378,2.07984 -8.6502,2.07984 h -5.3886 V 644.8162 h 6.2395 c 3.9705,0 6.7121,0.70904 8.1302,2.22164 1.4654,1.51261 2.1744,3.26157 2.1744,5.43594 0,2.22164 -0.8509,3.97059 -2.5053,5.38866 z"
+             fill="#ffffff" />
+          <path
+             style="stroke-width:0.47269"
+             id="path948"
+             d="m -1423.9089,665.28367 c -3.7342,0 -6.9485,2.17437 -8.5084,5.29413 l -18.6712,-2.64707 8.4138,-37.29522 h -11.1554 -5.7668 v 29.30677 h -23.6346 v -29.30677 h -20.7982 v 68.54002 h 20.7982 v -25.05256 h 23.6346 v 25.05256 h 5.7668 19.8529 c -3.167,-0.94538 -5.9085,-2.17438 -8.1302,-3.82879 -2.2689,-1.70169 -4.1125,-3.63971 -5.5305,-5.81409 -1.418,-2.17437 -2.5052,-4.58508 -3.4506,-7.79938 l 18.7185,-2.69433 c 1.5599,3.11975 4.7742,5.24686 8.4611,5.24686 5.2469,0 9.5011,-4.25421 9.5011,-9.50107 0,-5.24685 -4.3015,-9.50106 -9.5011,-9.50106 z"
+             fill="#ffffff" />
+        </g>
+        <g
+           style="stroke-width:7.51116;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.671551,0.671551,-0.671551,0.671551,553.97732,1187.0916)"
+           id="g1685-0">
+          <g
+             id="g2821">
+            <g
+               id="g1685-9"
+               transform="translate(-357.63935,-39.010076)"
+               style="stroke-width:7.51116;stroke-miterlimit:4;stroke-dasharray:none">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:7.51116;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-6-6)"
+                 d="m -1471.1462,339.92958 -0.1204,218.411 v 0"
+                 id="path1011-5-2" />
+            </g>
+            <rect
+               y="293.33075"
+               x="-1836.3744"
+               height="253.1261"
+               width="17.07077"
+               id="rect1668-1"
+               style="fill:#000000;stroke-width:7.51116;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g1081"
+         transform="translate(0,9.2698405)">
+        <text
+           transform="matrix(2.8650337,0,0,2.8650337,4890.9011,2007.3827)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Media Gothic';-inkscape-font-specification:'Media Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect89);fill:#000000;fill-opacity:1;stroke:none;"
+           id="text87"
+           xml:space="preserve"><tspan
+             x="-2111.8184"
+             y="-576.6123"><tspan>Snordian</tspan><tspan>'</tspan><tspan>s</tspan></tspan></text>
+        <g
+           transform="matrix(0.88126649,0,0,0.88126649,-45.754367,588.69087)"
+           id="g1061">
+          <g
+             id="g987">
+            <text
+               xml:space="preserve"
+               id="text187-6"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Media Gothic';-inkscape-font-specification:'Media Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect189-9);fill:#000000;fill-opacity:1;stroke:none;"
+               transform="matrix(2.0963859,0,0,2.0963859,212.8566,-1702.2629)"><tspan
+                 x="-647.25781"
+                 y="731.50098"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Media Gothic';-inkscape-font-specification:'Media Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">P</tspan></tspan></text>
+            <text
+               transform="matrix(2.0963859,0,0,2.0963859,93.822807,-1702.2629)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Media Gothic';-inkscape-font-specification:'Media Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect189-9-4);fill:#000000;fill-opacity:1;stroke:none;"
+               id="text187-6-6"
+               xml:space="preserve"><tspan
+                 x="-647.25781"
+                 y="731.50098"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Media Gothic';-inkscape-font-specification:'Media Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">H</tspan></tspan></text>
+            <text
+               transform="matrix(2.6650918,0,0,2.1078367,528.76071,-1704.0221)"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.8889px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect189-9-2);fill:#000000;fill-opacity:1;stroke:none;"
+               id="text187-6-67"
+               xml:space="preserve"><tspan
+                 x="-647.25781"
+                 y="727.91143"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.8889px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">5</tspan></tspan></text>
+          </g>
+          <text
+             transform="matrix(2.0963859,0,0,2.0963859,297.93295,-1701.6806)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Media Gothic';-inkscape-font-specification:'Media Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect189-2);fill:#000000;fill-opacity:1;stroke:none;"
+             id="text187-0"
+             xml:space="preserve"><tspan
+               x="-647.25781"
+               y="731.50098"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Media Gothic';-inkscape-font-specification:'Media Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Resize Pulse</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
